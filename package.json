@@ -1,0 +1,23 @@
+{
+  "name": "git-tag",
+  "version": "1.0.0",
+  "description": "create git tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu3927/git-tag.git"
+  },
+  "keywords": [
+    "git",
+    "tag"
+  ],
+  "author": "xu3927",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xu3927/git-tag/issues"
+  },
+  "homepage": "https://github.com/xu3927/git-tag#readme"
+}
