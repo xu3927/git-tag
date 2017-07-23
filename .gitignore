@@ -1,13 +1,4 @@
-*.ipr
-*.iws
-*.iml
-.idea/
-*.swp
-*.swo
-*.swn
+.idea/**
 *.DS_Store
 *.log
-node_modules/*
-**/node_modules/*
-stats.json
-.happypack/*
+node_modules/**
