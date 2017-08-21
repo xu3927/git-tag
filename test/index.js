@@ -1,1 +1,2 @@
-let gtag = require('../index');
+var gTag = require('../main.js');
+gTag()

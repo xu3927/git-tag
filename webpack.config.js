@@ -6,7 +6,9 @@ let config = {
     },
     output:{
         filename: '[name].js',
-        path: path.resolve(__dirname, 'build')
+        path: path.resolve(__dirname, 'build'),
+        library: 'gTag',
+        libraryTarget: 'commonjs2'
     },
     target: 'node',
     module: {

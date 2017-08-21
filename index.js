@@ -1,3 +1,3 @@
-var gtagInit = require('./lib/core');
+var gtagInit = require('./lib/core.js');
 
-gtagInit();
+module.exports = gtagInit
